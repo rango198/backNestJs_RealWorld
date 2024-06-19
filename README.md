@@ -1,5 +1,6 @@
-<p align="center">
-    <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="100" alt="Nest Logo" /></a>  ![NestJS/PostgreSQl Example App](project-logo.png)
+# ![NestJS/PostgreSQl Example App](project-logo.png)
+<p align="left">
+    <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="100" alt="Nest Logo" /></a>
 </p>
 
 
